@@ -202,5 +202,5 @@ run_parameters=RunPipelineParameters(variables=variables)
 print(run_parameters)
 
 # Run pipeline in MKL Goverance Project V2 with id 6 (ML Goverance V3))
-runPipeline = pipeline_client.run_pipeline(run_parameters=run_parameters,project='ML Governance V2',pipeline_id=6)
+runPipeline = pipeline_client.run_pipeline(run_parameters=run_parameters,project='ML Governance V2',pipeline_id=6) # note pipeline_id can get from pipeline uri in web browser
 print('Pipeline is triggered. Please check for execution status here: https://dev.azure.com/ML-Governance/ML%20Governance%20V2/_build?definitionId=6&_a=summary')'''

@@ -17,3 +17,5 @@ Workflow Steps
     - Retrieves test data
     - Invokes REST API
 - If successful, DevOps will deploy the model into production using the mlFlow REST API# databricksMLOpsAzureDemo
+
+# Tested successfull on DevOps

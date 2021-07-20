@@ -22,7 +22,5 @@ Workflow Steps
 
 # References:
 https://github.com/koernigo/databricksMLOpsAzureDemo
-![image](https://user-images.githubusercontent.com/35471410/126400795-ec9508df-a06c-49c8-80c7-92f0fa8af612.png)
-
 https://www.youtube.com/watch?v=4olCJWwZsVQ
-![image](https://user-images.githubusercontent.com/35471410/126400819-757d1d57-251d-4445-bcf7-d9a664647c31.png)
+
